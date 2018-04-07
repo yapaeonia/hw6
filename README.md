@@ -23,5 +23,4 @@
 В разделе Trends я выбрала слово awards для сравнения указанной частоты его использования по данным Ngram Viewer и Sketch Engine.
 ![](https://github.com/yapaeonia/hw6/blob/master/frequency.png)
 ![](https://github.com/yapaeonia/hw6/blob/master/ngram_awards.png) 
-В принципе, на обоих графиках заметен рост употребления этого слова 
-
+В принципе, оба графика - растующие, и частоты употребления схожи.
