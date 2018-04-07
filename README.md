@@ -8,4 +8,8 @@
 ![](https://github.com/yapaeonia/hw6/blob/master/cor_select.png)
 В данном задание необходимо было сравнить использование синонимичных слов, характерных для разных вариантов английского. Я выбрала слова underground (характерное для британского англ.) и subway (характерное для американского англ.). Благодаря  Google Ngram Viewer, мне удалось выяснить, что несмотря на то, что частота употребления этих слов отличается не значительно, все же subway упоребляется чаще в американского английском, а underground в британском.
 # Часть 2. Sketch Engine
-
+# Задание 1
+Ниже прикрепляю скрин запроса и скрин результата. 
+Тремя самыми частотными модификаторами слова question оказались слова: difficult, important, fundamental
+![](https://github.com/yapaeonia/hw6/blob/master/wordsketch1.png)
+![](https://github.com/yapaeonia/hw6/blob/master/wordsketch2.png)
