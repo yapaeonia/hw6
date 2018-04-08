@@ -1,6 +1,7 @@
 # hw6
 # Часть 1. Google Ngram Viewer
 ## Задание 1
+10 самых частотных продолжений фразы "due to the"
 ![](https://github.com/yapaeonia/hw6/blob/master/due%20to%20the.png)
 ## Задание 2 
 ![](https://github.com/yapaeonia/hw6/blob/master/p-of-s_tags.png)
@@ -14,6 +15,7 @@
 ![](https://github.com/yapaeonia/hw6/blob/master/wordsketch1.png)
 ![](https://github.com/yapaeonia/hw6/blob/master/wordsketch2.png)
 ## Задание 2 
+Я выбрала два синонимичных глагола allow и let 
 ![](https://github.com/yapaeonia/hw6/blob/master/diff.png)
 ![](https://github.com/yapaeonia/hw6/blob/master/diff1.png)
 
